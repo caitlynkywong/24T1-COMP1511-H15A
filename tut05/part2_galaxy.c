@@ -1,10 +1,10 @@
-// part1_galaxy.c
+// part2_galaxy.c
 //
 // This program was written by Caitlyn Wong (z5360361),
 // on 14/03/2024
 //
-// This program is a simple game that allows the user to build a galaxy. 
-// The user can place stars, planets, and nebulae in the galaxy.
+// This program is a refactored version of part1_galaxy.c with the code
+// moved into functions
 
 
 #include <stdio.h>
